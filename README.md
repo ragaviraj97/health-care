@@ -85,7 +85,7 @@ The project integrates multiple healthcare datasets, including:
 ---
 
 ## Conclusion
-This Excel capstone project highlights proficiency in **advanced Excel functions, data analysis, and dashboard design**, providing actionable insights into healthcare performance and cost patterns.
+This Excel capstone project highlights proficiency in **Excel functions, data analysis, and dashboard design**, providing actionable insights into healthcare performance and cost patterns.
 
 ---
 
