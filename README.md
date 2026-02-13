@@ -1,4 +1,4 @@
-# Excel Capstone Project: Healthcare Performance Analysis
+# Excel Project: Healthcare Performance Analysis
 
 ## Project Overview
 This project analyzes healthcare data using **Microsoft Excel** to uncover insights related to patient demographics, medical conditions, lifestyle factors, and healthcare costs. The project demonstrates strong skills in **data cleaning, Excel functions, Pivot Tables, and interactive dashboard creation**.
